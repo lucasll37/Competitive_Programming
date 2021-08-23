@@ -12,4 +12,4 @@ else{
     console.log(`R1 = ${r1}`)
     console.log(`R2 = ${r2}`)
 }
-    
+    //
